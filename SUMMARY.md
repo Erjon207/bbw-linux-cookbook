@@ -1,4 +1,5 @@
 # Table of contents
+<<<<<<< Updated upstream
 - [🏠Home](README.md)
 - [🤝Leitfaden zum Beitragen](leitfaden-zum-beitragen.md)
 - [🤖Linux Distribution](linux-distributionen/wsl.md)
@@ -43,3 +44,9 @@
 - [🖼️ Grafische Oberflächen](grafische-oberflächen/grafische-oberflächen.md)
     - [👣GNOME](grafische-oberflächen/gnome.md)
     - [⚙️KDE](grafische-oberflächen/kde.md)
+=======
+
+* [🏠 Home](README.md)
+* [🤝 Leitfaden zum Beitragen](leitfaden-zum-beitragen.md)
+* [[>_ ] Bash Konsole](Bash_Konsole/bash_konsole.md)
+>>>>>>> Stashed changes
