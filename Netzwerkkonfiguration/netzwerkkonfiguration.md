@@ -1,6 +1,6 @@
 # Netzwerkkonfiguration
 
-![Bash Logo](Images/Router.png)
+![Router Logo](Images/Router.png)
 
 ### IP-Adresse zuweisen
 
